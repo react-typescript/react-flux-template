@@ -1,2 +1,2 @@
-# react-flux-template
-React Typescript project with Redux architecture
+# react-project-template
+Typescript React project template with webpack, eslint &amp; prettier
